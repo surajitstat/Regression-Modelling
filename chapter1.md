@@ -1,5 +1,5 @@
 ---
-title: Template Chapter 1
+title: Lab 1
 description: This is a template chapter.
 ---
 
@@ -61,4 +61,76 @@ The Instructions that follow should be in bullet point form with clear guidance 
 ```{r}
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
+```
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: NormalExercise
+key: 4b393b22e5
+lang: r
+xp: 100
+skills: 1
+```
+
+
+`@instructions`
+
+`@hint`
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: NormalExercise
+key: 2514f09a87
+lang: r
+xp: 100
+skills: 1
+```
+
+
+`@instructions`
+
+`@hint`
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
 ```

@@ -1,3 +1,3 @@
 ---
-title       : Lab 3
-description : Insert the chapter description here
+title: 'Lab 3'
+description: 'Insert the chapter description here'
